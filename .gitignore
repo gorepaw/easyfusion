@@ -1,0 +1,8 @@
+# ROMs are copyrighted; never commit them
+*.gba
+*.sav
+*.ss[0-9]
+
+build/
+tools/
+__pycache__/
